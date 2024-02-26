@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Rainbow Containers App'),
+          title: Text('Xylophone App'),
         ),
         body: Column(
           children: [
